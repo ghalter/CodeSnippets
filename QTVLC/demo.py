@@ -5,7 +5,7 @@ import vlc
 import sys
 
 # The Path to the movie to Play
-MOVIE_PATH = "/Users/gaudenz/Desktop/test.mp4"
+MOVIE_PATH = "/Absolute/Path/To/Your/Movie/test.mp4"
 
 class MainWindow(QMainWindow):
     def __init__(self, instance, media_player):
